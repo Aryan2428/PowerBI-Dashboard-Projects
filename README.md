@@ -1,2 +1,10 @@
-# PowerBI-Dashboard-Projects
-E-Commerce Sales Dashboard: Analyzed sales, profit, and customer trends using interactive visuals and slicers.  Video Games Sales Dashboard: Visualized global game sales by region, platform, and genre.  Tools: Power BI, DAX, Data Visualization
+ # PowerBI-Dashboard-Projects
+
+1. Ecommerce Sales Dashboard  
+   - Analyzed revenue, profit, and customer trends  
+   - Used slicers and DAX  
+
+2. Video Games Sales Dashboard  
+   - Visualized global sales by region and genre  
+
+Tools: Power BI
