@@ -1,10 +1,1 @@
- # PowerBI-Dashboard-Projects
-
-1. Ecommerce Sales Dashboard  
-   - Analyzed revenue, profit, and customer trends  
-   - Used slicers and DAX  
-
-2. Video Games Sales Dashboard  
-   - Visualized global sales by region and genre  
-
-Tools: Power BI
+This repository contains my Power BI dashboard projects focused on data analysis, business insights, and KPI tracking. Each report demonstrates data cleaning, data modeling, DAX calculations, and interactive visualization techniques.
